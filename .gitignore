@@ -1,0 +1,24 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/app/release/
+/app/debug/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Ключ за подписване — НИКОГА в GitHub
+/kabagaida
+*.jks
+*.keystore
+keystore.properties
+
+# Готовите APK/AAB се качват в Releases, не в кода
+*.apk
+*.aab
+/dist/

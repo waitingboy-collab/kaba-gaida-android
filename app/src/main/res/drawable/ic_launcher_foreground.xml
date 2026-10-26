@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Стилизирана гайда: мях, гайдуница надолу и ручило нагоре. Безопасната зона е 66dp в центъра. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ручило -->
+    <path
+        android:fillColor="#FF7A5230"
+        android:pathData="M60,44 L74,24 L78,26.5 L64,46.5 Z" />
+    <path
+        android:fillColor="#FF5A3A20"
+        android:pathData="M72,22 L80,27 L82,24 L74,19 Z" />
+    <!-- мях -->
+    <path
+        android:fillColor="#FFA4161A"
+        android:pathData="M32,52 C32,40 44,35 56,38 C68,41 72,52 66,62 C60,72 44,74 37,67 C33,63 32,58 32,52 Z" />
+    <!-- шарка -->
+    <path
+        android:fillColor="#FFFAF6EE"
+        android:pathData="M42,50 L46,46 L50,50 L46,54 Z M52,54 L56,50 L60,54 L56,58 Z" />
+    <!-- гайдуница -->
+    <path
+        android:fillColor="#FF7A5230"
+        android:pathData="M42,66 L46,64 L52,84 L48,86 Z" />
+    <path
+        android:fillColor="#FF5A3A20"
+        android:pathData="M47,84 L53,82 L55,88 L49,90 Z" />
+</vector>
